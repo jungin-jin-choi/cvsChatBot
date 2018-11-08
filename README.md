@@ -31,3 +31,6 @@ python3 numulbo.py
 
 #4 카카오 거기 가서
 (aws거기서 ipv4에 있는 숫자 네개짜리):(내가 할당해놓은포트넘버) 치셈
+
+#5 위치
+http://kay0426.tistory.com/3
