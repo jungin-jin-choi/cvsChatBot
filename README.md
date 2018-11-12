@@ -82,6 +82,7 @@ things to consider : 챗봇이면 '대화형' - 문장으로부터 키워드 알
 ### 2. Input										
 위치|	품명|									
 GPS 위치 정보 - 경도, 위도 데이터	
+
 품명 자동완성 - 관련 검색어 attribute(ex. 감기약)									
 
 ### 3. Output										
